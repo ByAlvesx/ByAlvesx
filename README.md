@@ -4,10 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;Computer+Science+Student;Python+Developer;Always+Learning+New+Things+%F0%9F%92%96"/>
 
-
 ---
 
-# 🌸 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -17,10 +16,6 @@
 
 ---
 
-
-
-# 💕
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -29,7 +24,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 
 
 <div align="center">
 
@@ -49,6 +44,10 @@
 
 <a href="mailto:rafaedidi2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
+</a>
+
+<a href="https://www.instagram.com/rafaa_alvesx/">
+<img src="https://img.shields.io/badge/instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
